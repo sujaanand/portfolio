@@ -1,0 +1,6 @@
+{
+  "name": "Personal Portfolio Website",
+  "description": "A modern, highly responsive personal portfolio website for Suja A, Software Engineer, featuring interactive sections for projects, skills, education, certifications, and contact form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
